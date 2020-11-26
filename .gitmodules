@@ -22,3 +22,6 @@
 	path = amundsengremlin
 	url = https://github.com/amundsen-io/amundsengremlin
 	branch = master
+[submodule "apache-atlas"]
+	path = apache-atlas
+	url = git@github.com:sulthonzh/apache-atlas.git

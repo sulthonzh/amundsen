@@ -6,3 +6,10 @@ example/docker/es_data*
 .idea/
 venv/
 site/
+__pycache__/
+.venv/
+*.egg-info/
+.mypy_cache/
+dist/
+build/
+node_modules/

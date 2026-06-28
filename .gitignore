@@ -13,3 +13,6 @@ __pycache__/
 dist/
 build/
 node_modules/
+*.log
+.DS_Store
+coverage/
